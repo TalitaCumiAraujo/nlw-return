@@ -25,4 +25,4 @@ Um Component Widget para feedback que pode ser utilizado em qualquer site.
 - ESLint + Prettier + EditorConfig;
 - VS Code
 ---
-By Talita Araujo ;):purple_heart:
+By Talita Araujo :wink::purple_heart:
