@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Git Explorer" src="./.github/capa.png"/>
+    <img alt="Git Explorer" src="./src/assets/capa.png"/>
 </p>
 
 <h1 align="center">
@@ -25,4 +25,4 @@ Um Component Widget para feedback que pode ser utilizado em qualquer site.
 - ESLint + Prettier + EditorConfig;
 - VS Code
 ---
-By Talita Araujo :) ♥
+By Talita Araujo ;):purple_heart:
